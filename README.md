@@ -1,4 +1,5 @@
 # 👉🏻 About Me:
+<div style="font-size:18px; line-height:1.8;">
 🎓 B.Tech Electronics and Communication Engineering (ECE) undergraduate passionate about Software Development, AI, and Mobile Application Development.<br>
 📱 Flutter Developer experienced in building scalable mobile applications using Flutter, Dart, Firebase, and REST APIs.<br>
 👨‍💻 Built impactful projects like CogniVision, FitFlow, and CrackIt, solving real-world problems through AI and mobile technologies.<br>
@@ -9,6 +10,7 @@
 🚀 Continuously exploring AI, Backend Development, Mobile Technologies, and emerging software solutions.<br>
 🤝 Strong team player with leadership, communication, and collaboration skills through internships and project experience.<br>
 🏆 Committed to continuous learning through hands-on projects, certifications, coding practice, and innovation.
+</div>
 
 
 ## 🌐 Socials:
