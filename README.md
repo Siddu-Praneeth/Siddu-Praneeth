@@ -1,16 +1,14 @@
 # 👉🏻 About Me:
-🎓 B.Tech Electronics and Communication Engineering (ECE) undergraduate with a strong passion for Software Development, AI, and Mobile Application Development.<br>
-📱 Flutter Developer experienced in building scalable, cross-platform mobile applications using Flutter, Dart, Firebase, and REST APIs.<br>
-🤖 AI Enthusiast passionate about integrating Gemini AI, Vertex AI, and Machine Learning to build intelligent, real-world applications.<br>
-👨‍💻 Built impactful projects including CogniVision, FitFlow, and CrackIt, solving real-world challenges through AI, accessibility, fitness, and interview preparation.<br>
-♿ Passionate about developing AI-powered accessibility solutions that empower visually impaired users with greater independence.<br>
-🌐 Skilled in Flutter, Node.js, Express.js, Firebase, MongoDB, SQL, Python, C, Dart, Git, GitHub, Postman, and REST API Integration.<br>
-⚡ Experienced in developing real-time applications, secure authentication systems, scalable backend services, and performance-optimized solutions.<br>
-🔐 Familiar with JWT Authentication, Streaming APIs, asynchronous programming, client-server architecture, and real-time data processing.<br>
-💡 Strong foundation in Data Structures, Algorithms, Problem Solving, Software Development, and System Integration.<br>
-🚀 Always exploring AI, Mobile Development, Backend Development, Cloud Technologies, and emerging software innovations.<br>
-🤝 Strong team player with leadership, communication, collaboration, and project management skills gained through internships and student ambassador experience.<br>
-🏆 Continuously improving through hands-on projects, certifications, coding practice, hackathons, and a passion for learning and innovation.
+🎓 B.Tech Electronics and Communication Engineering (ECE) undergraduate passionate about Software Development, AI, and Mobile Application Development.<br>
+📱 Flutter Developer experienced in building scalable mobile applications using Flutter, Dart, Firebase, and REST APIs.<br>
+👨‍💻 Built impactful projects like CogniVision, FitFlow, and CrackIt, solving real-world problems through AI and mobile technologies.<br>
+♿ Passionate about creating AI-powered accessibility solutions, especially for empowering visually impaired users.<br>
+🌐 Skilled in Flutter, Node.js, Express.js, Firebase, MongoDB, SQL, Python, C, Dart, and API Integration.<br>
+⚡ Experienced in developing real-time applications, secure authentication systems, and scalable backend services.<br>
+💡 Strong foundation in Data Structures, Algorithms, Problem Solving, and Software Development fundamentals.<br>
+🚀 Continuously exploring AI, Backend Development, Mobile Technologies, and emerging software solutions.<br>
+🤝 Strong team player with leadership, communication, and collaboration skills through internships and project experience.<br>
+🏆 Committed to continuous learning through hands-on projects, certifications, coding practice, and innovation.
 
 
 ## 🌐 Socials:
