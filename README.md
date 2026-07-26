@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👉🏻 About Me:
 🎓 B.Tech Electronics and Communication Engineering (ECE) undergraduate with a strong passion for Software Development, AI, and Mobile Application Development.<br>
 📱 Flutter Developer experienced in building scalable, cross-platform mobile applications using Flutter, Dart, Firebase, and REST APIs.<br>
 🤖 AI Enthusiast passionate about integrating Gemini AI, Vertex AI, and Machine Learning to build intelligent, real-world applications.<br>
