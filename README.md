@@ -1,5 +1,5 @@
 # 👉🏻 About Me:
-<div style="font-size:18px; line-height:1.8;">
+<div style="font-size:32px; line-height:3.8;">
 🎓 B.Tech Electronics and Communication Engineering (ECE) undergraduate passionate about Software Development, AI, and Mobile Application Development.<br>
 📱 Flutter Developer experienced in building scalable mobile applications using Flutter, Dart, Firebase, and REST APIs.<br>
 👨‍💻 Built impactful projects like CogniVision, FitFlow, and CrackIt, solving real-world problems through AI and mobile technologies.<br>
